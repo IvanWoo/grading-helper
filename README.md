@@ -2,7 +2,7 @@
 An integrated solution for automatic marking and entering grades of MATLAB code assignment.
 
 ## Logic
-Based on [MATLAB tesing frameworks](https://www.mathworks.com/help/matlab/matlab-unit-test-framework.html), a csv file of unit test result is generated in every students' submitting folder. Reaing and entering the grade via [pandas](http://pandas.pydata.org/), an easy-to-use data structures and data analysis tools for the Python programming language.
+Based on [MATLAB tesing frameworks](https://www.mathworks.com/help/matlab/matlab-unit-test-framework.html), a csv file of unit test result is generated in every students' submitting folder. Reading and entering the grade via [pandas](http://pandas.pydata.org/), an easy-to-use data structures and data analysis tools for the Python programming language.
 
 ## Usage
 - **hw1** folder consists of assignments submitted by students.
